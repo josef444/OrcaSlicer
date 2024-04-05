@@ -73,7 +73,13 @@
 				"type": "po",
 				"pattern": "localization/i18n/tr/OrcaSlicer_pl.po",
 				"lang": "pl"
-			}
+			},
+			{       
+				"type": "el",
+				"pattern": "localization/i18n/el/OrcaSlicer_el.po",
+				"lang": "el"
+			}	
+			
 		]
 	},
 	"download": {
